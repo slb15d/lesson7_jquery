@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 28th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Sara Beeler
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment taught me about jQuery and how to use its functions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://slb15d.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that every jQuery statement begins with a $. 
+2. I learned that I can group jQuery statements into functions.
+3. I learned that I can select elements in jQuery with CSS selectors in quotes.
 
