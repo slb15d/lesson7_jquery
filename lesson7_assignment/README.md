@@ -19,4 +19,3 @@ https://slb15d.github.io/lesson7_jquery/
 1. I learned that every jQuery statement begins with a $. 
 2. I learned that I can group jQuery statements into functions.
 3. I learned that I can select elements in jQuery with CSS selectors in quotes.
-

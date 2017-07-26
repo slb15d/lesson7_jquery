@@ -37,3 +37,4 @@ $("h3").hover(function(){
 //hover() will trigger display2 method each time mouse hovers over header
 
 $("h3").hover(display2);
+
